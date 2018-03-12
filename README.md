@@ -1,5 +1,3 @@
-# ParaphraseBench
-
 *Introducing ParaphraseBench -- a benchmark to evaluate the robustness of NLIDBs.*
 
 Current benchmarks like the GeoQuery benchmark to not explicitly test different linguistic variations which is important to understand the robustness of an NLIDB. For testing different linguistic variants in a principled manner, we therefore curated a new benchmark as part of our paper on DBPal that covers different linguistic variations for the user NL input and maps it to an expected SQL output.
