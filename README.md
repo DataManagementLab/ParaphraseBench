@@ -19,3 +19,4 @@ Please cite the following paper when using this benchmark:
 
 > TBA
 
+Read about [how to use the benchmark](usage.html).
