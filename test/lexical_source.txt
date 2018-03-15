@@ -1,0 +1,57 @@
+what are the surnames of all patients ?
+what are the first name and last names of patients where sex is male and age is not less than 18
+what is being the mean age of all patients
+what is the total sum of patients where diagnosis is being influenza ?
+for each diagnosis group , what is the oldest age of patients ?
+for each diagnosis , what is the highest age for patients whose length of stay is not less than 3 ?
+what are the ages of all hospital patients ?
+what are given names and ages of patients whose gender is male or age is at least 18 ?
+what is the least high age of all patients ?
+what is the minimum length of stay of patients where their gender equals male
+for each gender , what is the shortest length of stay of patients ?
+for each gender , get the shortest length of stay of patients where diagnosis is equal influenza
+show all of the last names and all of the diagnoses of all of the patients
+what are the surnames , ages , and conditions of patients ?
+what are the first names , last names , and ages of all the hospital patients ?
+find the surname and age of every patient
+what are the family names and diagnoses of patients ?
+what are the family names and sexes of patients ?
+what are the first names and last names of patients where age is no less than 20 and no more than 30 ?
+what are the ages of patients where 3 is less than or equal to length of stay ?
+what are the ages of patients where length of stay is not greater than 3 ?
+display the ages of hospital patients where duration of stay is shorter than 3
+what are the age of patients where length of stay must be more than 3 ?
+what are the last names and the diagnoses of hospital patients where either the patient's gender is male or the patient's age is greater than 18 ?
+what is the aggregation of age of all patients ?
+what is the longest length of stay of patients ?
+what is the total number of patients ?
+what is the shortest length of stay out of all hospital inpatients ?
+what is the total sum of length of hospital stay of inpatients in the database ?
+what is the count of patients where gender is male and age is not less than 18 ?
+find the minimum length of stay of patients where age is neither more nor less than 18
+what is the sum of age of all patients whose diagnosis is not influenza ?
+what is the cumulation of durations of stay of inpatients where diagnosis is influenza ?
+what is the sum of ages of patients where age is no less than 20 and age is no more than 30
+what is the longest length of stay of patients where age is younger than 25 ?
+for each gender , what is the total sum of ages of hospital patients ?
+sorted by each gender , what is the total count of hospital inpatients ?
+for each diagnosis , what is the least long length of stay of patients ?
+for each sex , what is being the aggregate of age of patients whose age is greater than or equal to 18 ?
+for each diagnosis type , what equals the sum of length of hospital stay of hospital patients ?
+for each diagnosis , what is being the sum of ages of patients ?
+for each gender , what is the summation of age of patients where length of stay does not equal more than 5 ?
+for each diagnosis , what is the sum of length of stay of patients where age exceeds or equals 20 and is  below or equal to 30 ?
+for each diagnosis , what is the sum of patient age from patients where length of hospital stay is strictly less than 6 ?
+sorted into gender , what is the summation of length of lifetimes of inpatients where diagnosis is influenza ?
+for each gender , what is the number of patients where age is equal to or exceeding 10 and is not exceeding 25
+for each diagnosis , what is the minimum length of stay of patients where first name is not anything except John
+what are the first and last names of all hospital patients ?
+what are the possible diagnoses of patients ?
+what are the first names of patients and also the last names of patients where the diagnosis is flu ?
+what are the first names and last names of patients where diagnosis is anything but flu ?
+what is the least young age of patients ?
+what is the mean of length of stay of patients ?
+what is the least low age of patients where gender is female and age is at least 18 ?
+what is the mean of length of hospitalization of patients in the dataset where patient age equals to 15 years ?
+for each diagnosis category , what is the mean of length of hospital stay of inpatients ?
+for each diagnosis , what is the average length of hospitalization of inpatients where sex is male ?

@@ -1,0 +1,57 @@
+return a table of last names of all patients
+return a table of patients who are 18 or older and male
+what is the mean patient age ?
+count the flu-diagnosed patients
+find the ages of the eldest patient of each diagnosis
+for each diagnosis , display the diagnosis and the age of the patient with the highest age who stayed for 3 or more days
+how much have all patients aged ?
+display the first names and ages of either male gendered or at least 18 year old patients
+what is the age of the least aged patient ?
+what is the shortest length of stay among patients whose sex is male ?
+get the smallest hospitalization period from each gender category
+what are the shortest stay durations of patients with flu diagnosis for each gender category ?
+get all patients' last names and diseases
+display the surname , age , and illness of every patient
+show a complete list of patients' first names , last names and ages
+for every patient , show their surname and years lived
+show the surname and illness for every patient
+show a table exhibiting the surname and the gender for every patient in the database
+show the first names and last names for patients in the age range from 20 to 30
+show the ages of all patients whose length of stay is longer than or equal to 3
+display the list of ages of all patients whose duration of stay is shorter than or equal in length to 3
+compile the ages of all patients whose duration of stay is shorter than 3
+find all patients who stayed for more than 3 and display their ages
+compile patients who are either male gendered or aged greater than 18 and display their last names and diagnosis
+aggregate the ages of all patients in the database
+display the longest length of stay out of the patients table
+show the patient total
+what was the length of stay of the patient with the shortest length of stay ?
+what is the total combined length of stay for all patients ?
+what is the size of the group of patient who are both of male gender and at least 18 years of age ?
+find all patients whose age is 18 and find the one with the shortest length of stay
+cumulate the ages of all not flu-diagnosed patients
+show the sum of length of stay of patients who were diagnosed with flu
+what is the sum of length of stay for patients in the age range from 20 to 30 ?
+find the length of stay of the patient aged less than 25 with the longest length of stay
+sum the ages of all patients sorted by gender
+count the number of patients by what gender they identify as
+identify the shortest lengths of stay for patients in each diagnosis category
+what is the cumulative sum of ages of all patients aged 18 and over in each gender ?
+add up all the lengths of stay for patients in each diagnosis category
+aggregate the ages of patients for each diagnosis
+what is the aggregate of ages for each gender of patients whose length of stay is 5 or shorter ?
+for each diagnosis , from patients in the age range from 20 to 30 , what is the sum of length of stay ?
+for patients who stayed for less than 6 sorted by diagnosis , what are the aggregates of ages ?
+find all patients diagnosed with flu , sort them into groups by gender and summate their ages
+what is the total sum of patients in the age range from 10 to 25 for each gender ?
+What was the shortest length of stay a patient named John spent for each diagnosis ?
+display a list of patient first and last names
+list the distinct values of diagnosis
+display a list first and last names of of flu diagnosed patients
+display a list of patient first and last names for patients not diagnosed with the flu
+how old is the oldest aged patient ?
+average the periods of stay of all patients
+find the oldest aged patient of female gender
+get the mean of patients' length of stay where they are exactly as old as 15
+for each different diagnosis , calculate the mean stay legnth
+compute the mean of male gender patients' length of stay per diagnosis

@@ -1,0 +1,23 @@
+{
+  "types": {
+    "FIRSTNAME": 1,
+    "LASTNAME": 2,
+    "DIAGNOSIS": 3,
+    "GENDER": 4,
+    "INTEGER": 5
+  },
+  "defaults" : {
+    "patients" : { "col": "id", "utt" : "patient"}
+  },
+  "ents": {
+    "patients": {
+      "id" : {"index": true,  "type": "INTEGER", "utt": "id"},
+      "first_name": {"index": true, "type": "FIRSTNAME", "utt": "first name"},
+      "last_name": {"index": true, "type": "LASTNAME", "utt": "last name"},
+      "diagnosis": {"index": true, "type": "DIAGNOSIS", "utt": "diagnosis"},
+      "gender": {"index": true, "type": "GENDER", "utt": "gender"},
+      "length_of_stay": {"index": true, "type": "INTEGER", "utt": "length of stay"},
+      "age": {"index": true, "type": "INTEGER", "utt": "age"}
+    }
+  }
+}

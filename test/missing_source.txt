@@ -1,0 +1,57 @@
+what are all last names ?
+what are the full names of all patients who are older than 18 and male ?
+how old is the typical patient ?
+how many patients with flu are there ?
+return the oldest age for each diagnosis
+for each diagnosis , return the oldest patient age who stays longer or equal to 3
+how old are the patients ?
+show the age and first name of all patients who are either male or older than 18
+how old is the youngest patient ?
+find the minimum length of stay of male patients
+find the minimum lengths of stay for male and for female patients
+what are the shortest stay durations of flu patients for each gender ?
+get all patients' last names and what they are in for
+show me the list of surname along with the age , and diagnosis
+for every patient , display full name and age
+find last name and age
+show me the list of surname and diagnosis
+show the last name of every patient and whether they are male or female
+show the full names for patients who is between 20 to 30 years old
+how old are the patients who stayed at least 3 days ?
+how old are the patients who stayed shorter than or exactly 3 days ?
+how old are the patients who stayed for shorter than 3 days ?
+how old are the patients who stayed longer than 3 days ?
+show surnames and diagnosis of patients either male or older than 18 years old
+aggregate the years old of everyone in the database
+display the longest hospitalization period
+how many patients are there ?
+how long did the patient with the shortest length of stay stay ?
+how many hours total were spent hospitalized by patients in the database ?
+how many male patients older than 18 are there ?
+find the minimum length of stay of all patients who are as old as 18
+sum the ages of patients who do not have the flu
+get the sum of age of patients with flu
+get the aggregated hospitalization time for all patients between 20 and 30 years
+what is the longest length of stay by all patients younger than 25 ?
+sum the ages of all male patients and all female patients and all other patients
+count the number of patients who identify as male , female , or other
+how long were the patients in each diagnosis group who were in for the shortest times in for ?
+for each gender , what is the sum of age of patients 18 or older ?
+add up for how long patients in each diagnosis category were at the hospital
+aggregate the years old of everyone in the database sorted into diagnosis
+what is the sum of ages for each gender of patients hospitalized for 5 or less ?
+sum up for how long patients from 20 to 30 years old in each diagnosis category were at the hospital
+find the sums of the numbers of years all patients whose length of stay is less than 6 have lived from each diagnosis
+what is the sum of ages for each gender of patients with flu ?
+what is the sum of patients between 10 and 25 for each gender ?
+for each diagnosis , what is the minimum length of stay of patients who are named John :6
+what are all the full names ?
+list flu and all the alternatives to flu listed in the database
+show the full names of all patients who are diagnosed with flu
+what are the full names of patients not with flu ?
+how long has the longest lived patient lived ?
+average how long patients were hospitalized for
+get the maximum age of female patients older than 18
+what is the length of stay of the typical patient who is 15 ?
+get the average time patients for each diagnosis were in for
+compute the mean of male patients' length of stay per diagnosis

@@ -1,0 +1,57 @@
+what are all patients' last names ? 
+what are the first name and last name of all patients where age is greater than or equal to 18 and gender is male ?
+what is the patients' average age ? 
+of patients where diagnosis is flu , what is the count  ?  
+what is the maximum age of patients for each diagnosis ? 
+what is the maximum patient age where length of stay is greater than or equal to 3 for each diagnosis ? 
+Of all patients , what are the ages ? 
+for patients where gender equals male or age is greater than or equal to 18 , show first name and age 
+of all patients , the minimum age is what ? 
+of patients where male is the gender , minimum length of stay is what ? 
+for each gender , the minimum length of stay of patients is what ? 
+for each gender , get the minimum length of stay of patients where flu is equal to diagnosis 
+for all patients , show last name and diagnosis 
+for all patients , show last name , age , and diagnosis
+what are patients' first names , last names , and ages ? 
+find patients' last names and ages 
+the last names and diagnoses of patients are what ? 
+the last names and genders of patients are what ? 
+from patients where age is greater than or equal to 20 and age is less than or equal to 30 , the first names and last names are what ? 
+from patients where length of stay is greater than or equal to 3 , what are the ages ? 
+from patients where length of stay is less than or equal to 3 , what are the ages ? 
+from patients where length of stay is less than 3 , what are the ages ?
+from patients where length of stay is greater than 3 , what are the ages ? 
+from patients where gender is male or age is greater than or equal to 18 , last names and diagnosis are what ?
+from all patients show their sum of ages ?
+of all patients , the maximum length of stay is what ? 
+the number of patients is what ? 
+of all patients , what is the minimum length of stay ? 
+of all patients , what is the sum of length of stay ? 
+what is the number of patients where male is the gender and 18 or greater is the age ? 
+find from patients where age equals 18 the minimum length of stay 
+of all patients where diagnosis is not flu , what is the sum of age ? 
+the sum of lengths of stay of patients where diagnosis is flu is what ? 
+for patients where age is greater than or equal to 20 and age is less than or equal to 30 , what is the sum of ages ? 
+from patients where age is less than 25 , what is the maximum length of stay ? 
+what is the sum of patients' ages for each gender ? 
+what is the number of patients for each gender ? 
+the minimum length of stay for patients is what for each diagnosis ? 
+from patients where age is greater than or equal to 18 , what is the sum of ages sorted by gender ? 
+for each diagnosis , the sum of stay length of patients is what ? 
+what is the sum of ages of patients for each diagnosis ? 
+the sum of ages of patients where length of stay is equal to 5 or less  is what for each gender ? 
+what is the length of stay sum for each diagnosis of patients  where age is greater than or equal to 20 and age is equal to 30 or less ? 
+the sum of age of patients where length of stay is less than 6 is what for each diagnosis ? 
+what is the sum of ages for each gender of patients where diagnosis is not flu ?
+where age is equal to 25 or less and age is equal to 10 or greater , what is the number of patients for each gender ? 
+for each diagnosis , from all patients where John is the first name , what is the minimum length of stay ? 
+Of all patients the first names and last names are what ? 
+the distinct diagnoses of patients are what ? 
+where diagnosis is flu , what are patients' first names and last names ? 
+of patients where diagnosis is not flu , the first names and last names are what ? 
+the patients' maximum age is what ? 
+the mean stay length is what ? 
+the maximimum patient age is what where female is gender and age is greater than or equal to 18 ? 
+where age is equal to 15 , what is the average length of stay of patients ? 
+what is the patients' average length of stay for each diagnosis ? 
+what is the average length of stay of patients where gender is male for each diagnosis ?
