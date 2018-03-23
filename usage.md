@@ -32,6 +32,6 @@ The actual test consists of a range of natural language queries with associated 
 
 The test cases consist of 57 different queries in 6 variations each and the associated sql queries. The variations of the naive query are: *Syntactic, Morphological, Lexical, Semantic, Missing Information*. Each variant can be found in a file called `<variant>_source.txt`, the corresponding sql queries are located in the corresponding lines of the file `patients_test.sql`.
 
-To test your NLIDB run the results of your system against the database provided above and compare the results to those of the gold standard. We propose the following metric: A query is counted as correctly translated when it produces the exact result (attributes and rows returned) or at least the expected rows and a superset of the expected attributes/columns.
+To test your NLIDB run the results of your system against the database provided above and compare the results to those of the gold standard. We propose the following metric: A query is counted as correctly translated when it produces the exact result (attributes and rows returned) or at least the expected rows and a superset of the expected attributes/columns. This metric is already implemented in `evaluate.py`.
 
 [Back to overview](. "Back to overview")
