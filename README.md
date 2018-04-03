@@ -15,8 +15,16 @@ In the following, we show an example query for each of these categories in our b
 * Semantic: ”What is the average length of stay of patients older than 80?”
 * Missing Information: ”What is the average stay of patients who are 80?”
 
-Please cite the following paper when using this benchmark:
+Please cite the following paper when using this benchmark ([download bib file](paraphraseBench.bib)):
 
-> TBA
+> Title: An End-to-end Neural Natural Language Interface for Databases  
+> Authors:	Utama, Prasetya; Weir, Nathaniel; Basik, Fuat; Binnig, Carsten; Cetintemel, Ugur; Hättasch, Benjamin; Ilkhechi, Amir; Ramaswamy, Shekar; Usta, Arif  
+> Publication:	eprint arXiv:1804.00401  
+> Publication Date:	04/2018  
+> Origin: ARXIV  
+> Keywords:	Computer Science - Databases, Computer Science - Computation and Language, Computer Science - Human-Computer Interaction  
+> Bibliographic Code:	2018arXiv180400401U  
+> https://arxiv.org/abs/1804.00401
+
 
 Read about [how to use the benchmark](usage.md).
