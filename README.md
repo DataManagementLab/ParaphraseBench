@@ -24,7 +24,7 @@ Please cite the following paper when using this benchmark ([download bib file](p
 > Origin: ARXIV  
 > Keywords:	Computer Science - Databases, Computer Science - Computation and Language, Computer Science - Human-Computer Interaction  
 > Bibliographic Code:	2018arXiv180400401U  
-> https://arxiv.org/abs/1804.00401
+> <https://arxiv.org/abs/1804.00401>
 
 
 Read about [how to use the benchmark](usage.md).
